@@ -3,4 +3,5 @@
 echo 'Hello, World!';
 echo 'IM ALLIVEEEE';
 echo 'Maybe now';
-ehco 'this time for sureee';
+echo 'this time for sureee';
+echo 'Okay but for real this time'; 
